@@ -16,5 +16,5 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Run Hello-Ansys
-        run: python Hello-Ansys.py
+      - name: Run Hello
+        run: python hello.py
